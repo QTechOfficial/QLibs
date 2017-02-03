@@ -1,0 +1,5 @@
+com.qtech.first.qLibs.joysticks
+com.qtech.first.qLibs.math
+com.qtech.first.qLibs.sensors.encoders
+com.qtech.first.qLibs.sensors.gyro
+com.qtech.first.qLibs.sensors.lidar
